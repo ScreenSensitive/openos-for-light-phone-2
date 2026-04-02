@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# React Native
+.bundle/
+.expo/
+
+# Android
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+*.keystore
+!debug.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Misc
+.DS_Store
+*.log
+.env
