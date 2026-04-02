@@ -158,6 +158,19 @@ EVERYTHING lol
 
 ---
 
+## Acknowledgements
+
+| Project | License | Use |
+|---|---|---|
+| [NewPipe Extractor](https://github.com/TeamNewPipe/NewPipeExtractor) | GPL-3.0 | YouTube audio stream extraction |
+| [React Native](https://github.com/facebook/react-native) | MIT | UI framework |
+| [OkHttp](https://github.com/square/okhttp) | Apache-2.0 | HTTP client for stream downloads |
+| [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) | MIT | UI icons |
+
+This project uses NewPipe Extractor to resolve YouTube audio streams at runtime. No YouTube content is stored or redistributed. Intended for personal use.
+
+---
+
 ## License
 
 MIT
